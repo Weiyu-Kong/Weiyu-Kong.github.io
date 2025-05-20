@@ -31,6 +31,7 @@ My research interests revolve around the intersection of software engineering an
 - Papers in the oven — coming soon! 🚀
 
 # 🎖 Honors and Awards
+- *2025.04* Second Prize, ByteDance VisActor Data Visualization Innovation Competition, Shanghai Jiao Tong University
 - *2022.12* & *2023.12* First Prize of People's Scholarship, Nanjing University
 
 # 📖 Educations
